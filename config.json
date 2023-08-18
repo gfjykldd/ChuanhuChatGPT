@@ -43,7 +43,6 @@
     "api_key_list": [
     ],
     "openai_api_base": "https://api.openai.com",
-    "server_name": "a.lmzxtek.link",
     "server_port": 80,
     "share": false
 }
