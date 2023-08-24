@@ -14,7 +14,7 @@
     "azure_embedding_model_name": "text-embedding-ada-002", 
 
     "language": "auto", 
-    "users": [], 
+    "users": [["qq", "999999999"], ["aa", "7654321234567"]], 
     "local_embedding": false, 
     "hide_history_when_not_logged_in": false,
     "check_update": true, 
